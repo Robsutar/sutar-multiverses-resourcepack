@@ -1,0 +1,1 @@
+{"textures":{"1":"modelengine:entity/azriel_follower"},"elements":[{"from":[8.0,1.0,5.5],"to":[8.0,8.0,10.5],"faces":{"east":{"uv":[5.25,7.5,4.0,9.25],"tintindex":0,"rotation":0,"texture":"#1"},"west":{"uv":[4.0,7.5,5.25,9.25],"tintindex":0,"rotation":0,"texture":"#1"}}}]}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/lr_anubis_darkmode"},"elements":[{"from":[3.5,-1.0,8.0],"to":[12.5,8.0,8.0],"faces":{"south":{"uv":[1.6875,5.125,2.25,5.6875],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[2.25,5.125,1.6875,5.6875],"tintindex":0,"rotation":0,"texture":"#0"}}}]}

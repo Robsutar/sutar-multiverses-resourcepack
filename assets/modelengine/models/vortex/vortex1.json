@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/vortex1"},"elements":[{"from":[2.0,8.099998,2.0],"to":[14.0,8.099998,14.0],"faces":{"up":{"uv":[7.5,3.0,6.75,2.25],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[8.25,2.25,7.5,3.0],"tintindex":0,"rotation":0,"texture":"#0"}}}]}

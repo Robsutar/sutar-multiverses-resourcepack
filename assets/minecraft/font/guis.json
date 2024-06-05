@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "file": "multiverses:gui/apocalyptic_asylum/teleport_gui.png",
+            "chars": [
+                "\ue000"
+            ],
+            "height": 256,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/candyland/teleport_gui.png",
+            "chars": [
+                "\ue001"
+            ],
+            "height": 256,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/neverland/teleport_gui.png",
+            "chars": [
+                "\ue002"
+            ],
+            "height": 256,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/skyhaven_realm/teleport_gui.png",
+            "chars": [
+                "\ue003"
+            ],
+            "height": 256,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/the_everfrost/teleport_gui.png",
+            "chars": [
+                "\ue004"
+            ],
+            "height": 256,
+            "ascent": 13,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/space/teleport_gui.png",
+            "chars": [
+                "\ue005"
+            ],
+            "height": 256,
+            "ascent": 13,
+            "type": "bitmap"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "common:item/corrupted_heart"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [
+				95.23,
+				-85.03,
+				96.82
+			],
+			"translation": [
+				0,
+				2.75,
+				2.25
+			],
+			"scale": [
+				0.5,
+				0.5,
+				1
+			]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [
+				-102.77,
+				89.33,
+				106.39
+			],
+			"translation": [
+				0,
+				3,
+				2.75
+			],
+			"scale": [
+				0.5,
+				0.5,
+				1
+			]
+		},
+		"firstperson_lefthand": {
+			"rotation": [
+				172.53,
+				71.72,
+				176.85
+			],
+			"translation": [
+				3,
+				2.75,
+				-2.75
+			],
+			"scale": [
+				0.69727,
+				0.75977,
+				1
+			]
+		},
+		"ground": {
+			"translation": [
+				0,
+				3,
+				0
+			],
+			"scale": [
+				0.5,
+				0.5,
+				0.5
+			]
+		},
+		"gui": {
+			"scale": [
+				0.75,
+				0.75,
+				1
+			]
+		},
+		"fixed": {
+			"rotation": [
+				0,
+				180,
+				0
+			],
+			"translation": [
+				0,
+				0.25,
+				0
+			],
+			"scale": [
+				0.85938,
+				0.79883,
+				1
+			]
+		}
+	}
+}

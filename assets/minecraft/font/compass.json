@@ -1,0 +1,292 @@
+{
+    "providers": [
+        {
+            "file": "common:gui/compass/compass_00.png",
+            "chars": [
+                "\ue000"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_01.png",
+            "chars": [
+                "\ue001"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_02.png",
+            "chars": [
+                "\ue002"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_03.png",
+            "chars": [
+                "\ue003"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_04.png",
+            "chars": [
+                "\ue004"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_05.png",
+            "chars": [
+                "\ue005"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_06.png",
+            "chars": [
+                "\ue006"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_07.png",
+            "chars": [
+                "\ue007"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_08.png",
+            "chars": [
+                "\ue008"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_09.png",
+            "chars": [
+                "\ue009"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_10.png",
+            "chars": [
+                "\ue00a"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_11.png",
+            "chars": [
+                "\ue00b"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_12.png",
+            "chars": [
+                "\ue00c"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_13.png",
+            "chars": [
+                "\ue00d"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_14.png",
+            "chars": [
+                "\ue00e"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_15.png",
+            "chars": [
+                "\ue00f"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_16.png",
+            "chars": [
+                "\ue010"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_17.png",
+            "chars": [
+                "\ue011"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_18.png",
+            "chars": [
+                "\ue012"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_19.png",
+            "chars": [
+                "\ue013"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_20.png",
+            "chars": [
+                "\ue014"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_21.png",
+            "chars": [
+                "\ue015"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_22.png",
+            "chars": [
+                "\ue016"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_23.png",
+            "chars": [
+                "\ue017"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_24.png",
+            "chars": [
+                "\ue018"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_25.png",
+            "chars": [
+                "\ue019"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_26.png",
+            "chars": [
+                "\ue01a"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_27.png",
+            "chars": [
+                "\ue01b"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_28.png",
+            "chars": [
+                "\ue01c"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_29.png",
+            "chars": [
+                "\ue01d"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_30.png",
+            "chars": [
+                "\ue01e"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        },
+        {
+            "file": "common:gui/compass/compass_31.png",
+            "chars": [
+                "\ue01f"
+            ],
+            "height": 16,
+            "ascent": 12,
+            "type": "bitmap"
+        }
+    ]
+}

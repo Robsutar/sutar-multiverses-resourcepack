@@ -1,0 +1,229 @@
+{
+	"providers": [
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue000"
+			],
+			"height": 3,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue001"
+			],
+			"height": 8,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue002"
+			],
+			"height": 40,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue003"
+			],
+			"height": 57,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue004"
+			],
+			"height": -92,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue005"
+			],
+			"height": -60,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue006"
+			],
+			"height": -3,
+			"ascent": -5000,
+			"type": "bitmap"
+		},
+		{
+			"file": "common:gui/space.png",
+			"chars": [
+				"\ue007"
+			],
+			"height": -80,
+			"ascent": -32768,
+			"type": "bitmap"
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_100.png",
+			"height": 45,
+			"ascent": 18,
+			"chars": [
+				"∛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_90.png",
+			"height": 45,
+			"ascent": 18,
+			"chars": [
+				"∜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_80.png",
+			"height": 45,
+			"ascent": 18,
+			"chars": [
+				"∝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_70.png",
+			"height": 45,
+			"ascent": 18,
+			"chars": [
+				"∞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_60.png",
+			"height": 45,
+			"ascent": 24,
+			"chars": [
+				"∟"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_50.png",
+			"height": 45,
+			"ascent": 24,
+			"chars": [
+				"∠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_40.png",
+			"height": 45,
+			"ascent": 24,
+			"chars": [
+				"∡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_30.png",
+			"height": 45,
+			"ascent": 18,
+			"chars": [
+				"∢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_20.png",
+			"height": 45,
+			"ascent": 18,
+			"chars": [
+				"∤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_azriel:hp_10.png",
+			"height": 45,
+			"ascent": 18,
+			"chars": [
+				"∥"
+			]
+		},
+		{
+			"file": "littleroom_piratepack:empty_character.png",
+			"chars": [
+				""
+			],
+			"height": -6,
+			"ascent": -32768,
+			"type": "bitmap"
+		},
+		{
+			"file": "littleroom_piratepack:empty_character.png",
+			"chars": [
+				""
+			],
+			"height": 6,
+			"ascent": -65536,
+			"type": "bitmap"
+		},
+		{
+			"type": "bitmap",
+			"file": "littleroom_piratepack:captain_speech_banner.png",
+			"height": 256,
+			"ascent": 128,
+			"chars": [
+				"⛵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "diamond_xmas:santa.png",
+			"height": 48,
+			"ascent": 5,
+			"chars": [
+				"🅾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "diamond_xmas:elf1.png",
+			"height": 48,
+			"ascent": 5,
+			"chars": [
+				"🃏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "diamond_xmas:elf2.png",
+			"height": 48,
+			"ascent": 5,
+			"chars": [
+				"🅰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "diamond_xmas:elf3.png",
+			"height": 48,
+			"ascent": 5,
+			"chars": [
+				"🀄"
+			]
+		}
+	]
+}

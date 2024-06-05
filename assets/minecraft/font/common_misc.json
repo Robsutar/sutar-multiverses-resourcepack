@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "file": "common:misc/white_pixel.png",
+            "chars": [
+                "\ue000"
+            ],
+            "height": 1024,
+            "ascent": 512,
+            "type": "bitmap"
+        }
+    ]
+}

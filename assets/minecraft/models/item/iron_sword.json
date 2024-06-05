@@ -1,0 +1,11 @@
+{
+"parent": "item/handheld",
+"textures": {
+"layer0": "item/iron_sword"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":1}, "model": "modelfoundry:mutant_zombie/modelfoundry_mutant_zombie_hammer"},
+{"predicate": {"custom_model_data":2}, "model": "modelfoundry:mutant_zombie/modelfoundry_mutant_zombie_dagger"}
+]
+}

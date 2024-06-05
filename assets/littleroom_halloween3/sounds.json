@@ -1,0 +1,113 @@
+{
+   "littleroom.halloween3.werewolf.grunt":{
+		 "sounds": [
+			"littleroom/halloween3/werewolf/grunt1",
+			"littleroom/halloween3/werewolf/grunt2",
+			"littleroom/halloween3/werewolf/grunt3"
+		 ]
+	},
+   "littleroom.halloween3.werewolf.howl":{
+		 "sounds": [
+			"littleroom/halloween3/werewolf/howl"
+		 ]
+	},
+   "littleroom.halloween3.werewolf.roar":{
+		 "sounds": [
+			"littleroom/halloween3/werewolf/roar1",
+			"littleroom/halloween3/werewolf/roar2",
+			"littleroom/halloween3/werewolf/roar3"
+		 ]
+	},
+   "littleroom.halloween3.werewolf.snarl":{
+		 "sounds": [
+			"littleroom/halloween3/werewolf/snarl1",
+			"littleroom/halloween3/werewolf/snarl2"
+		 ]
+	},
+   "littleroom.halloween3.werewolf.bite":{
+		 "sounds": [
+			"littleroom/halloween3/werewolf/bite1",
+			"littleroom/halloween3/werewolf/bite2"
+		 ]
+	},
+   "littleroom.halloween3.swing":{
+		 "sounds": [
+			"littleroom/halloween3/swing1",
+			"littleroom/halloween3/swing2",
+			"littleroom/halloween3/swing3",
+			"littleroom/halloween3/swing4",
+			"littleroom/halloween3/swing5"
+		 ]
+	},
+   "littleroom.halloween3.poof":{
+		 "sounds": [
+			"littleroom/halloween3/poof"
+		 ]
+	},
+   "littleroom.halloween3.cauldron.bubble":{
+		 "sounds": [
+			"littleroom/halloween3/cauldron/bubble1",
+			"littleroom/halloween3/cauldron/bubble2",
+			"littleroom/halloween3/cauldron/bubble3",
+			"littleroom/halloween3/cauldron/bubble4",
+			"littleroom/halloween3/cauldron/bubble5"
+		 ]
+	},
+   "littleroom.halloween3.cauldron.slam":{
+		 "sounds": [
+			"littleroom/halloween3/cauldron/slam1",
+			"littleroom/halloween3/cauldron/slam2",
+			"littleroom/halloween3/cauldron/slam3",
+			"littleroom/halloween3/cauldron/slam4"
+		 ]
+	},
+   "littleroom.halloween3.cauldron.splash":{
+		 "sounds": [
+			"littleroom/halloween3/cauldron/splash1",
+			"littleroom/halloween3/cauldron/splash2",
+			"littleroom/halloween3/cauldron/splash3"
+		 ]
+	},
+   "littleroom.halloween3.cauldron.explode":{
+		 "sounds": [
+			"littleroom/halloween3/cauldron/explode"
+		 ]
+	},
+   "littleroom.halloween3.imp.banish":{
+		 "sounds": [
+			"littleroom/halloween3/imp/banish"
+		 ]
+	},
+   "littleroom.halloween3.imp.death":{
+		 "sounds": [
+			"littleroom/halloween3/imp/death"
+		 ]
+	},
+   "littleroom.halloween3.imp.laugh":{
+		 "sounds": [
+			"littleroom/halloween3/imp/laugh1",
+			"littleroom/halloween3/imp/laugh2",
+			"littleroom/halloween3/imp/laugh3"
+		 ]
+	},
+   "littleroom.halloween3.mummy.groan":{
+		 "sounds": [
+			"littleroom/halloween3/mummy/groan1",
+			"littleroom/halloween3/mummy/groan2",
+			"littleroom/halloween3/mummy/groan3",
+			"littleroom/halloween3/mummy/groan4"
+		 ]
+	},
+   "littleroom.halloween3.props.coil":{
+		 "sounds": [
+			"littleroom/halloween3/props/coil"
+		 ]
+	},
+   "littleroom.halloween3.banshee.shriek":{
+		 "sounds": [
+			"littleroom/halloween3/banshee/shriek1",
+			"littleroom/halloween3/banshee/shriek2",
+			"littleroom/halloween3/banshee/shriek3"
+		 ]
+	}
+}

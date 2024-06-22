@@ -1,0 +1,1 @@
+{"textures":{"11":"modelengine:entity/smoke_frame12"},"elements":[{"from":[8.0,4.75,17.875],"to":[8.0,11.25,26.625],"faces":{"east":{"uv":[0.0,0.0,8.75,6.5],"tintindex":0,"rotation":0,"texture":"#11"},"west":{"uv":[8.75,0.0,0.0,6.5],"tintindex":0,"rotation":0,"texture":"#11"}},"rotation":{"origin":[8.0,8.0,8.0],"angle":45.0,"axis":"y"}}],"display":{"gui":{"rotation":[30,225,0]}}}

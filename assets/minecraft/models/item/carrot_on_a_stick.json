@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "littleroom_piratepack:captain_cannon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "littleroom_piratepack:tnt_barrel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "littleroom_piratepack:pirate_scimitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "littleroom_piratepack:pirate_scimitar_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "littleroom_piratepack:blunderbuss"
+    }
+  ]
+}

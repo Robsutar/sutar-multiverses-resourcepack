@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/hp3_cauldron_monster"},"elements":[{"from":[4.0,-13.5,8.0],"to":[17.0,8.5,8.0],"faces":{"south":{"uv":[11.5625,0.4375,12.375,1.8125],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[12.375,0.4375,11.5625,1.8125],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

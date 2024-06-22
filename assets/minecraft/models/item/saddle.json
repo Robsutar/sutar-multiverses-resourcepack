@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/saddle"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "common:item/corrupted_heart"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "common:item/item_pedestal"
+        }
+    ]
+}

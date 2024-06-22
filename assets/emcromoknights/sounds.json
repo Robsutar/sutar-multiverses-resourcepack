@@ -1,0 +1,27 @@
+{ "custom.cromoknightboss.metalhit": { "category": "hostile", "sounds": [ { "name": "custom/mobs/cromoknightboss/hit1" }, { "name": "custom/mobs/cromoknightboss/hit2" } ] }, 
+
+"custom.cromoknights.slashhita": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenhero/slashhit1" }, { "name": "custom/mobs/fallenhero/slashhit2" }, { "name": "custom/mobs/fallenhero/slashhit3" } ] }, 
+"custom.cromoknights.slashhitb": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenhero/slashhitb1" }, { "name": "custom/mobs/fallenhero/slashhitb2" }, { "name": "custom/mobs/fallenhero/slashhitb3" } ] }, 
+"custom.cromoknights.herostun": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/stun1" }, { "name": "custom/spell/fallenhero/stun2" } ] }, 
+"custom.cromoknights.channelstun": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/channelstun" } ] }, 
+"custom.cromoknights.attackwindup": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenhero/attackwindup1" }, { "name": "custom/mobs/fallenhero/attackwindup2" }, { "name": "custom/mobs/fallenhero/attackwindup3" }, { "name": "custom/mobs/fallenhero/attackwindup4" } ], "subtitle": "Strong blow"  }, 
+"custom.cromoknights.landshockwave": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/landshockwave1" }, { "name": "custom/spell/fallenhero/landshockwave2" }, { "name": "custom/spell/fallenhero/landshockwave3" } ], "subtitle": "Shockwave" }, 
+
+"custom.cromoknights.hurt": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenreaper/hurtgen1" }, { "name": "custom/mobs/fallenreaper/hurtgen2" }, { "name": "custom/mobs/fallenreaper/hurtgen3" } ], "subtitle": "Corrupted voices cry" }, 
+"custom.cromoknights.attack4reaper": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenreaper/attack4reaper1" }, { "name": "custom/spell/fallenhero/attack4reaper2" }, { "name": "custom/spell/fallenhero/attack4reaper3" } ], "subtitle": "Strong swing" }, 
+"custom.cromoknights.grandslashcast": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/granslashcast1" }, { "name": "custom/spell/fallenhero/granslashcast2" } ] },
+
+"custom.cromoknights.channelknight": { "category": "hostile", "sounds": [ { "name": "custom/mobs/cromoknightboss/channelknight1" } ] }, 
+"custom.cromoknights.directionsword": { "category": "hostile", "sounds": [ { "name": "custom/mobs/cromoknightboss/directioncast1" }, { "name": "custom/mobs/cromoknightboss/directioncast2" } ] }, 
+"custom.cromoknights.directioncast": { "category": "hostile", "sounds": [ { "name": "custom/mobs/cromoknightboss/sword_direction1" }, { "name": "custom/mobs/cromoknightboss/sword_direction2" } ] },
+
+"custom.pepperknights.ost": { "category": "music", "sounds": [ { "name": "custom/musicem/cromoknightboss/pprknight_ost" } ] },
+"custom.pepperknights.ostfader": { "category": "music", "sounds": [ { "name": "custom/musicem/cromoknightboss/pprknight_ost_fader" } ] },
+
+"custom.cromoknights.channelattack": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/channelattack1" }, { "name": "custom/mobs/embandit1/channelattack2" } ] }, 
+"custom.cromoknights.emweaponclash": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/emweaponclash1" }, { "name": "custom/mobs/embandit1/emweaponclash2" } ], "subtitle": "Weapon clash" }, 
+"custom.cromoknights.knifewindup": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/knifewindup1" }, { "name": "custom/mobs/embandit1/knifewindup2" } ] }, 
+
+"custom.cromoknights.macehit": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/macehit1" }, { "name": "custom/mobs/embandit1/macehit2" } ], "subtitle": "Brutal hit" }, 
+"custom.cromoknights.macewindup": { "category": "hostile", "sounds": [ { "name": "custom/mobs/embandit1/macewindup1" }, { "name": "custom/mobs/embandit1/macewindup2" } ] }
+}

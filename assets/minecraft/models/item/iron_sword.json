@@ -6,6 +6,8 @@
 
 "overrides": [
 {"predicate": {"custom_model_data":1}, "model": "modelfoundry:mutant_zombie/modelfoundry_mutant_zombie_hammer"},
-{"predicate": {"custom_model_data":2}, "model": "modelfoundry:mutant_zombie/modelfoundry_mutant_zombie_dagger"}
+{"predicate": {"custom_model_data":2}, "model": "modelfoundry:mutant_zombie/modelfoundry_mutant_zombie_dagger"},
+
+{"predicate":{"custom_model_data":8001},"model":"mythic_barrel:ink_brush_item"}
 ]
 }

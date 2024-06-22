@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/spawn_leaf"},"elements":[{"from":[13.5,-3.5,7.5],"to":[24.0,14.5,7.5],"faces":{"south":{"uv":[4.0,1.5,1.375,6.0],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[1.375,1.5,4.0,6.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

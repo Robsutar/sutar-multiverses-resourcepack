@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cookie"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1001},"model": "diamond_xmas:gingercookie"},
+        {"predicate": {"custom_model_data": 501},"model": "multiverses:item/candy_blue/"},
+        {"predicate": {"custom_model_data": 502},"model": "multiverses:item/candy_green/"},
+        {"predicate": {"custom_model_data": 503},"model": "multiverses:item/candy_orange/"},
+        {"predicate": {"custom_model_data": 504},"model": "multiverses:item/candy_pink/"},
+        {"predicate": {"custom_model_data": 505},"model": "multiverses:item/candy_red/"},
+        {"predicate": {"custom_model_data": 506},"model": "multiverses:item/donut/"},
+        {"predicate": {"custom_model_data": 507},"model": "multiverses:item/lollipop/"},
+        {"predicate": {"custom_model_data": 508},"model": "multiverses:item/pancake/"},
+        {"predicate": {"custom_model_data": 509},"model": "multiverses:item/waffle/"}
+    ]
+}

@@ -1,1 +1,0 @@
-{"textures":{"5":"modelengine:entity/azriel_parts"},"elements":[{"from":[-1.0,-7.999999,8.0],"to":[17.0,8.0,8.0],"faces":{"south":{"uv":[6.75,0.0,5.625,1.0],"tintindex":0,"rotation":0,"texture":"#5"},"north":{"uv":[5.625,0.0,6.75,1.0],"tintindex":0,"rotation":0,"texture":"#5"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/scute"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "multiverses:item/apocalyptic_asylum/key"},
+		{"predicate": {"custom_model_data": 2},"model": "multiverses:item/candyland/key"},
+		{"predicate": {"custom_model_data": 3},"model": "multiverses:item/neverland/key"},
+		{"predicate": {"custom_model_data": 4},"model": "multiverses:item/skyhaven_realm/key"},
+		{"predicate": {"custom_model_data": 5},"model": "multiverses:item/the_everfrost/key"},
+		{"predicate": {"custom_model_data": 6},"model": "multiverses:item/apocalyptic_asylum/key_token"},
+		{"predicate": {"custom_model_data": 7},"model": "multiverses:item/candyland/key_token"},
+		{"predicate": {"custom_model_data": 8},"model": "multiverses:item/neverland/key_token"},
+		{"predicate": {"custom_model_data": 9},"model": "multiverses:item/skyhaven_realm/key_token"},
+		{"predicate": {"custom_model_data": 10},"model": "multiverses:item/the_everfrost/key_token"},
+		
+		{"predicate": {"custom_model_data": 101},"model": "multiverses:item/crafting_altar"}
+	]
+}

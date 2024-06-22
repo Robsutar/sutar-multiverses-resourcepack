@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/wolfebersahd"},"elements":[{"from":[4.0,8.0,4.7683716E-7],"to":[14.0,8.0,8.0],"faces":{"up":{"uv":[13.2375,9.1125,12.0125,8.1375],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[12.0125,8.1375,13.2375,9.1125],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/hp3_imp"},"elements":[{"from":[8.0,2.0,8.0],"to":[8.0,14.0,16.0],"faces":{"east":{"uv":[0.0,0.0,1.0,1.5],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[1.0,0.0,0.0,1.5],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

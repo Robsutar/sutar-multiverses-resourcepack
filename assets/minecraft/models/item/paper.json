@@ -1,0 +1,74 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "diamond_xmas:pinkwreath"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "diamond_xmas:bluewreath"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "diamond_xmas:wreath"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "diamond_xmas:stocking"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "diamond_xmas:xmashat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "diamond_xmas:antlers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1041
+            },
+            "model": "diamond_xmas2:winterhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1042
+            },
+            "model": "diamond_xmas2:elfhat1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1043
+            },
+            "model": "diamond_xmas2:elfhat2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1044
+            },
+            "model": "diamond_xmas2:frosthat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1045
+            },
+            "model": "diamond_xmas2:santahat"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+	"parent": "minecraft:item/template_spawn_egg",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "littleroom_halloween3:eyeballjar"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "littleroom_halloween3:tesla_coil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1001
+			},
+			"model": "diamond_xmas:xmastree"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1002
+			},
+			"model": "diamond_xmas:bluexmastree"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1003
+			},
+			"model": "diamond_xmas:pinkxmastree"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1004
+			},
+			"model": "diamond_xmas:snowmanplushie"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1005
+			},
+			"model": "diamond_xmas:santaplushie"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1041
+			},
+			"model": "diamond_xmas2:bluepresent"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1042
+			},
+			"model": "diamond_xmas2:candycane"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1043
+			},
+			"model": "diamond_xmas2:goldpresent"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1044
+			},
+			"model": "diamond_xmas2:pinkpresent"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1045
+			},
+			"model": "diamond_xmas2:xmastree"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1046
+			},
+			"model": "diamond_xmas2:xmaslamp"
+		}
+	]
+}

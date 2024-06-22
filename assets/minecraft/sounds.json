@@ -1,9 +1,0 @@
-{
-   "christmas.bell" : {"sounds":["christmas/bell","christmas/bell2"]},
-   "christmas.elf" : {"sounds":["christmas/elfspeak1","christmas/elfspeak2","christmas/elfspeak3","christmas/elfspeak4","christmas/elfspeak5"]},
-   "christmas.santa" : {"sounds":["christmas/santa1","christmas/santa2","christmas/santa3","christmas/santa4","christmas/santa5"]},
-   "christmas.santa.ho" : {"sounds":["christmas/ho"]},
-   "christmas.santa.laugh" : {"sounds":["christmas/laugh"]},
-   "christmas.elfwhat" : {"sounds":["christmas/elfwhat","christmas/elfwhat2"]},
-   "christmas.clap" : {"sounds":["christmas/clap"]}
-}

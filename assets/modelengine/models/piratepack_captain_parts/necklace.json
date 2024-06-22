@@ -1,1 +1,0 @@
-{"textures":{"8":"modelengine:entity/pirate_captain_seaweed_hit"},"elements":[{"from":[1.5,-4.0,8.0],"to":[15.5,8.0,8.0],"faces":{"south":{"uv":[8.25,4.4375,7.4375,5.1875],"tintindex":0,"rotation":0,"texture":"#8"},"north":{"uv":[7.4375,4.4375,8.25,5.1875],"tintindex":0,"rotation":0,"texture":"#8"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

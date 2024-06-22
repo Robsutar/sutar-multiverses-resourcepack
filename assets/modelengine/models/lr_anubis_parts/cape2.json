@@ -1,1 +1,0 @@
-{"textures":{"1":"modelengine:entity/lr_anubis_parts"},"elements":[{"from":[1.5,-1.9713402,7.9841633],"to":[14.5,8.02866,7.9841633],"faces":{"south":{"uv":[4.5625,1.4375,3.75,2.0625],"tintindex":0,"rotation":0,"texture":"#1"},"north":{"uv":[3.75,1.4375,4.5625,2.0625],"tintindex":0,"rotation":0,"texture":"#1"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

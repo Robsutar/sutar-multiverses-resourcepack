@@ -1,0 +1,67 @@
+{
+    "providers": [
+        {
+            "file": "multiverses:gui/apocalyptic_asylum/bar_bloodmoon.png",
+            "chars": [
+                "\ue001"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/apocalyptic_asylum/bar_default.png",
+            "chars": [
+                "\ue002"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/candyland/bar_default.png",
+            "chars": [
+                "\ue003"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/neverland/bar_default.png",
+            "chars": [
+                "\ue004"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/the_everfrost/bar_blizzard.png",
+            "chars": [
+                "\ue005"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/the_everfrost/bar_default.png",
+            "chars": [
+                "\ue006"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        },
+        {
+            "file": "multiverses:gui/the_everfrost/bar_heat_wave.png",
+            "chars": [
+                "\ue007"
+            ],
+            "height": 7,
+            "ascent": 7,
+            "type": "bitmap"
+        }
+    ]
+}

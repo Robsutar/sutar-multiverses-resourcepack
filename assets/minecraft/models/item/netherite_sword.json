@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data": 2001},"model": "multiverses:item/multiversal_sword"},
+        {"predicate": {"custom_model_data": 2011}, "model": "multiverses:item/multiversal_staff/candyland_staff"},
+		{"predicate": {"custom_model_data": 2012}, "model": "multiverses:item/multiversal_staff/everfrost_staff"},
+		{"predicate": {"custom_model_data": 2013}, "model": "multiverses:item/multiversal_staff/skyhaven_staff"},
+		{"predicate": {"custom_model_data": 2014}, "model": "multiverses:item/multiversal_staff/zombie_staff"}
+    ]
+}

@@ -26,7 +26,7 @@
             "predicate": {
                 "custom_model_data": 1005
             },
-            "model": "diamond_xmas:stocking"
+            "model": "diamond_xmas:entity/stocking"
         },
         {
             "predicate": {

@@ -8,31 +8,31 @@
       "predicate": {
         "custom_model_data": 10
       },
-      "model": "littleroom_piratepack:captain_cannon"
+      "model": "littleroom_piratepack:item/captain_cannon"
     },
     {
       "predicate": {
         "custom_model_data": 11
       },
-      "model": "littleroom_piratepack:tnt_barrel"
+      "model": "littleroom_piratepack:item/tnt_barrel"
     },
     {
       "predicate": {
         "custom_model_data": 12
       },
-      "model": "littleroom_piratepack:pirate_scimitar"
+      "model": "littleroom_piratepack:item/pirate_scimitar"
     },
     {
       "predicate": {
         "custom_model_data": 13
       },
-      "model": "littleroom_piratepack:pirate_scimitar_block"
+      "model": "littleroom_piratepack:item/pirate_scimitar_block"
     },
     {
       "predicate": {
         "custom_model_data": 14
       },
-      "model": "littleroom_piratepack:blunderbuss"
+      "model": "littleroom_piratepack:item/blunderbuss"
     }
   ]
 }

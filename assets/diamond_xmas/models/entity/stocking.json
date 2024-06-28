@@ -6,8 +6,8 @@
 		32
 	],
 	"textures": {
-		"0": "diamond_xmas:entity/entity/stocking",
-		"particle": "diamond_xmas:entity/entity/stocking"
+		"0": "diamond_xmas:entity/stocking",
+		"particle": "diamond_xmas:entity/stocking"
 	},
 	"elements": [
 		{

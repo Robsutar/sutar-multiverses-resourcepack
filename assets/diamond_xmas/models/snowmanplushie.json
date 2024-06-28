@@ -7,7 +7,7 @@
 	],
 	"textures": {
 		"0": "diamond_xmas:entity/snowmanplushie",
-		"particle": "diamond_xmas:entity/nowmanplushie"
+		"particle": "diamond_xmas:entity/snowmanplushie"
 	},
 	"elements": [
 		{

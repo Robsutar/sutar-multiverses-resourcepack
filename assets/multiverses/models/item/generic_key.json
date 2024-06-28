@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 12.5, -0.25]
+		}
+	}
+}

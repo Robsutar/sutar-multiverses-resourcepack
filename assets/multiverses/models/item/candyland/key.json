@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "multiverses:item/generic_key",
     "textures": {
         "layer0": "multiverses:item/candyland/key"
     }

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "mythic_barrel:ink_panda_main_phase2"
+		"1": "mythic_barrel:item/ink_panda_main_phase2"
 	},
 	"elements": [
 		{

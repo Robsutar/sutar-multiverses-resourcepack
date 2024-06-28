@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"3": "littleroom_pohaku:pohakushield"
+		"3": "littleroom_pohaku:item/pohakushield"
 	},
 	"elements": [
 		{

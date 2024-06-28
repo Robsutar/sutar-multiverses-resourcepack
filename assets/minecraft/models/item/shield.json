@@ -42,7 +42,7 @@
     },
     "overrides": [
         {"predicate": {"blocking": 1}, "model": "item/shield_blocking"},
-        {"predicate": {"custom_model_data":1}, "model": "littleroom_pohaku:pohakushield"},
-        {"predicate": {"custom_model_data":1,  "blocking": 1}, "model": "littleroom_pohaku:pohakushield_blocking"}
+        {"predicate": {"custom_model_data":1}, "model": "littleroom_pohaku:item/pohakushield"},
+        {"predicate": {"custom_model_data":1,  "blocking": 1}, "model": "littleroom_pohaku:item/pohakushield_blocking"}
     ]
 }

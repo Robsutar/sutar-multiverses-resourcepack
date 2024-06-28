@@ -9,12 +9,6 @@
 				"custom_model_data": 1001
 			},
 			"model": "diamond_xmas:iceaxe"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2001
-			},
-			"model": "multiverses:item/multiversal_axe"
 		}
 	]
 }

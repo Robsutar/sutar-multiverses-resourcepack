@@ -1,0 +1,14 @@
+{
+	"arrow_shoot": {
+		"sounds": ["multiverses:arrow_shoot_1", "multiverses:arrow_shoot_1"]
+	},
+	"backstep": {
+		"sounds": ["multiverses:backstep"]
+	},
+	"black_hole": {
+		"sounds": ["multiverses:black_hole"]
+	},
+	"hunters_focus": {
+		"sounds": ["multiverses:hunters_focus"]
+	}
+}

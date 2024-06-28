@@ -6,10 +6,6 @@
     "overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "littleroom_deadbeard:item/flintlock"},
 
-		{"predicate": {"custom_model_data":101}, "model": "multiverses:item/multiversal_staff/candyland_staff"},
-		{"predicate": {"custom_model_data":102}, "model": "multiverses:item/multiversal_staff/everfrost_staff"},
-		{"predicate": {"custom_model_data":103}, "model": "multiverses:item/multiversal_staff/skyhaven_staff"},
-		{"predicate": {"custom_model_data":104}, "model": "multiverses:item/multiversal_staff/zombie_staff"},
 		{"predicate": {"custom_model_data":105}, "model": "multiverses:item/glider/1"},
 		{"predicate": {"custom_model_data":106}, "model": "multiverses:item/glider/2"}
     ]

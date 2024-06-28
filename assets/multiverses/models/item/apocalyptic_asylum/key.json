@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "multiverses:item/apocalyptic_asylum/key"
-    }
+	"parent": "multiverses:item/generic_key",
+	"textures": {
+		"layer0": "multiverses:item/apocalyptic_asylum/key"
+	}
 }

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "littleroom_anubis:lr_anubis_bullethell",
-		"particle": "littleroom_anubis:lr_anubis_bullethell"
+		"0": "littleroom_anubis:item/lr_anubis_bullethell",
+		"particle": "littleroom_anubis:item/lr_anubis_bullethell"
 	},
 	"elements": [
 		{

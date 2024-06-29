@@ -5,8 +5,8 @@
             "chars": [
                 "\ue000"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -14,8 +14,8 @@
             "chars": [
                 "\ue001"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -23,8 +23,8 @@
             "chars": [
                 "\ue002"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -32,8 +32,8 @@
             "chars": [
                 "\ue003"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -41,8 +41,8 @@
             "chars": [
                 "\ue004"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -50,8 +50,8 @@
             "chars": [
                 "\ue005"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -59,8 +59,8 @@
             "chars": [
                 "\ue006"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -68,8 +68,8 @@
             "chars": [
                 "\ue007"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -77,8 +77,8 @@
             "chars": [
                 "\ue008"
             ],
-            "height": 9,
-            "ascent": -16,
+            "height": 13,
+            "ascent": -45,
             "type": "bitmap"
         },
         {
@@ -86,8 +86,8 @@
             "chars": [
                 "\ue009"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         },
         {
@@ -95,8 +95,8 @@
             "chars": [
                 "\ue010"
             ],
-            "height": 9,
-            "ascent": -17,
+            "height": 13,
+            "ascent": -47,
             "type": "bitmap"
         }
     ]

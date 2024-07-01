@@ -4,9 +4,8 @@
         "layer0": "item/stick"
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "littleroom_deadbeard:item/flintlock"},
+      {"predicate": {"custom_model_data":1}, "model": "littleroom_deadbeard:item/flintlock"},
 
-		{"predicate": {"custom_model_data":105}, "model": "multiverses:item/glider/1"},
-		{"predicate": {"custom_model_data":106}, "model": "multiverses:item/glider/2"}
+      {"predicate": {"custom_model_data":105}, "model": "multiverses:item/glider"}
     ]
 }
